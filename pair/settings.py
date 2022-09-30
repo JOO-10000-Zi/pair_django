@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+
     'pair_pjt1',
     'django.contrib.admin',
     'django.contrib.auth',
